@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+}
+
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    border: 1px solid red;
+    align-items: center;
+}
